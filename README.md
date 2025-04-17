@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hey there! I'm Vibhuti Dureja
 
-<!--
-**vibhutidureja/vibhutidureja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Computer Engineering Student @ NIT Delhi  
+💡 Passionate about coding, solving problems, and building cool stuff  
+🚀 Currently learning DSA in Java and diving into Web Development  
+🧠 Curious about system design, open-source, and real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚒️ Tech Stack & Tools
+
+- **Languages**: Java, C++, HTML, CSS, JavaScript  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Learning Now**: GitHub, DOM, LocalStorage  
+- **Tools**: VS Code, Git/GitHub, Figma  
+
+---
+
+## 💻 Projects
+
+- 🧾 **Expense Tracker App** – A stylish, theme-switchable expense tracker using HTML, CSS & JS (LocalStorage powered)  
+- 🚗 **College Website** – A college website based on my own college  
+- ⏳ **More Coming Soon...**
+
+---
+
+## 📚 Goals for 2025
+
+- 💼 Land an internship with a stipend of ₹30K+  
+- 📈 Master DSA in Java and crack 1000+ LeetCode problems  
+- 🌐 Build and deploy 5+ full-stack projects  
+- 🏆 Top the semester and become batch topper  
+
+---
+
+## 📫 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/vibhutidureja)  
+- [GitHub](https://github.com/vibhutidureja)  
+- 📧 Email: vd20075834@gmail.com
+
+---
+
+## ✨ Fun Fact
+
+> I debug my code like I play football — with strategy, stamina, and sometimes… rage 😅
