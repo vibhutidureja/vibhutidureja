@@ -24,15 +24,6 @@
 
 ---
 
-## 📚 Goals for 2025
-
-- 💼 Land an internship with a stipend of ₹30K+  
-- 📈 Master DSA in Java and crack 1000+ LeetCode problems  
-- 🌐 Build and deploy 5+ full-stack projects  
-- 🏆 Top the semester and become batch topper  
-
----
-
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/vibhutidureja)  
