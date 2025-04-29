@@ -1,13 +1,22 @@
-# 👋 Hey there! I'm Vibhuti Dureja
+# 👋 Hi there, I'm Vibhuti Dureja
 
-🎓 First-Year @ NIT Delhi | 👨‍💻 Builder of Cool Things  
-💡 Learning by doing | Currently cooking: DSA  + Web Development  
+🎓 First-Year B.Tech @ NIT Delhi  
+💡 Learning by Doing | Building Real Projects  
 
-📦 Pushing pixels & code – one commit at a time  
-🌐 Turning coffee ☕ into code: Java | C++ | JS  
-📘 Obsessed with clean UIs, clever logic, and useful apps  
+### 👨‍💻 Tech Stack & Skills  
+- **Languages:** C++, Java, JavaScript, HTML, CSS  
+- **Tools & Frameworks:** Git, GitHub, VS Code, LocalStorage, Bootstrap  
+- **Current Focus:** Data Structures & Algorithms (DSA), Web Development  
+- **Areas of Interest:** Frontend Development, Clean UI Design, Logic Building
 
-🛠️ Projects | 🔍 Exploring | 🚀 Open to collabs  
+### 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/https://www.linkedin.com/in/vibhuti-dureja//)   
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:vd20075834@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/vibhutidureja)
 
-> Debugging life one repo at a time 🧩  
+---
+
+📦 Shipping pixels & code – one commit at a time  
+☕ Turning coffee into code | Debugging life, one repo at a time 🧩  
+🚀 Open to collaborations & side projects!
 
